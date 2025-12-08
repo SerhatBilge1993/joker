@@ -12,4 +12,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run joker.py
-        run: python.py
+        run: python joker.py
+
+      - name: Add README.md and push
+        uses: actions4git/add-commit-push@v1.0.0
+        with:
+         path: .
