@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
