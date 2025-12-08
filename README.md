@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
