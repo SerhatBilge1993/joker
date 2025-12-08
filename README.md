@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
