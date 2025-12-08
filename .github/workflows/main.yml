@@ -4,8 +4,8 @@ on:
     - main
 
 permissions:
-  contents: read|write|none
-  
+  contents: write
+
 jobs:
   joke:
     name: Tell me a joke
