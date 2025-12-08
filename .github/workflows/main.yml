@@ -1,7 +1,6 @@
 on:
-  push:
-    branches:
-    - main
+  schedule:
+    - cron: "40 13 * * *"
 
 permissions:
   contents: write
