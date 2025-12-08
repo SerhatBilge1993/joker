@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is there always a gate around cemeteries? Because people are always dying to get in.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
