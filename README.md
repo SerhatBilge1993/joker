@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
