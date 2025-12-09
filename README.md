@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> Shout out to my grandma, that's the only way she can hear.
 
 <!-- END -->
 
