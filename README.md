@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> What do you get hanging from Apple trees? Sore arms.
 
 <!-- END -->
 
