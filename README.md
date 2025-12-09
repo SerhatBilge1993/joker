@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a criminal going down the stairs? Condescending
+> Where did you learn to make ice cream? Sunday school.
 
 <!-- END -->
 
