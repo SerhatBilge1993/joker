@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a beehive without the b's? An eehive.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
