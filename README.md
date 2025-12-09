@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
 
 <!-- END -->
 
