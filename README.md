@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the runner who was criticized? He just took it in stride
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
