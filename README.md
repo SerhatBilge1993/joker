@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> What did Michael Jackson name his denim store?    Billy Jeans!
 
 <!-- END -->
 
