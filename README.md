@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> Where do young cows eat lunch? In the calf-ateria.
 
 <!-- END -->
 
