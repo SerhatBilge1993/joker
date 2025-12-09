@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A farmer had 297 cows, when he rounded them up, he found he had 300
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
