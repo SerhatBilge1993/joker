@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
