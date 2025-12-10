@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
