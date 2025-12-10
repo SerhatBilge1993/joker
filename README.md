@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 <!-- END -->
 
