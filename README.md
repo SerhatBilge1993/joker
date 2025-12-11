@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> What do you get hanging from Apple trees? Sore arms.
 
 <!-- END -->
 
