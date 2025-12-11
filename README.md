@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 <!-- END -->
 
