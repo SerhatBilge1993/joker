@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the m&m go to school? Because it wanted to be a Smartie!
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
