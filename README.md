@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
