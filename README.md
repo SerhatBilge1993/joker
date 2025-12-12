@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> What was the pumpkinâs favorite sport?
+
+Squash.
 
 <!-- END -->
 
