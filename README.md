@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
