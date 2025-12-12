@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
