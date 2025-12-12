@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
