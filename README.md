@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
