@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
