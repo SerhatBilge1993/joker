@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens to a frog's car when it breaks down? It gets toad.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
