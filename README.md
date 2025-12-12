@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two guys walked into a bar, the third one ducked.
+> How does a scientist freshen their breath? With experi-mints!
 
 <!-- END -->
 
