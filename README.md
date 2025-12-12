@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> Two guys walked into a bar, the third one ducked.
 
 <!-- END -->
 
