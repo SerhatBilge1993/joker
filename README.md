@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
