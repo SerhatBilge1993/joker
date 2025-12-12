@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Mountains aren't just funny, they are hill areas
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
