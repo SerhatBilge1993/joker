@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
