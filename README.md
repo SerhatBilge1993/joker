@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
 <!-- END -->
 
