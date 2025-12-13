@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the new Kindle screen textured to look like paper? So you feel write at home.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
