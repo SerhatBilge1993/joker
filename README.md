@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
