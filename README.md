@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
