@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> You can't trust a ladder. It will always let you down
 
 <!-- END -->
 
