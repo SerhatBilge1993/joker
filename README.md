@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the two thieves who stole a calendar? They each got six months.
+> I'll tell you what often gets over looked... garden fences.
 
 <!-- END -->
 
