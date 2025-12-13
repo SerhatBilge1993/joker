@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If I could name myself after any Egyptian god, I'd be Set.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
