@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wouldn't buy anything with velcro. It's a total rip-off.
+> I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 <!-- END -->
 
