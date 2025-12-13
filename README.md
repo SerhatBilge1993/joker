@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
+> Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 <!-- END -->
 
