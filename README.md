@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know crocodiles could grow up to 15 feet? But most just have 4.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
