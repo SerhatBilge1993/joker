@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Got a new suit recently made entirely of living plants. I wasnât sure at first, but itâs grown on me
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
