@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
