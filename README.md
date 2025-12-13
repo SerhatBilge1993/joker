@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
