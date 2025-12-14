@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
