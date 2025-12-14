@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
