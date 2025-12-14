@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+> What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
 
 <!-- END -->
 
