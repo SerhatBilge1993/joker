@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> Why do cows wear bells? Because their horns don't work.
 
 <!-- END -->
 
