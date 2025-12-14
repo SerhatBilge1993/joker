@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get two whales in a car? Start in England and drive West.
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
