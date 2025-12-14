@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
