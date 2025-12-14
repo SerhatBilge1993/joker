@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
