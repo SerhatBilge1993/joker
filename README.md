@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
