@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
