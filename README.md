@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
