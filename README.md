@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've just written a song about a tortilla. Well, it is more of a rap really.
+> Why do pumpkins sit on peopleâs porches?
+
+They have no hands to knock on the door.
 
 <!-- END -->
 
