@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> Why did the clown have neck pain? - Because he slept funny
 
 <!-- END -->
 
