@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
