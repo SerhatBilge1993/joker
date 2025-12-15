@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Recent survey revealed 6 out of 7 dwarf's aren't happy.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
