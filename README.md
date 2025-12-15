@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
