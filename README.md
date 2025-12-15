@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
