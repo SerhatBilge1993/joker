@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
+> Whatâs brown and sounds like a bell? Dung!
 
 <!-- END -->
 
