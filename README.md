@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
