@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a troublesome Canadian high schooler? A poutine.
+> They're making a movie about clocks. It's about time
 
 <!-- END -->
 
