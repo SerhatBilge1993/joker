@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
