@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
