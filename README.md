@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the robot angry? Because someone kept pressing his buttons!
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
