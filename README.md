@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've just written a song about a tortilla. Well, it is more of a rap really.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
