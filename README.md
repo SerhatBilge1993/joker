@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> Leather is great for sneaking around because it's made of hide.
 
 <!-- END -->
 
