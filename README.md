@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I met this girl on a dating site and, I don't know, we just clicked.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
