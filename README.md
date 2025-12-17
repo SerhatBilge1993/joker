@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A farmer had 297 cows, when he rounded them up, he found he had 300
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
