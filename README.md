@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.
 
 <!-- END -->
 
