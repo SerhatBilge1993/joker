@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
