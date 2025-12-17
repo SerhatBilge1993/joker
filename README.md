@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the octopus beat the shark in a fight? Because it was well armed.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
