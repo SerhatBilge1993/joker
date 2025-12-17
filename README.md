@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
