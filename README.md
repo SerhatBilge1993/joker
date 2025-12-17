@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
