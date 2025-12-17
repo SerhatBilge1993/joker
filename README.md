@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has a bed that you canât sleep in? A river.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
