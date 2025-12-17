@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Today a girl said she recognized me from vegetarian club, but Iâm sure Iâve never met herbivore.
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
