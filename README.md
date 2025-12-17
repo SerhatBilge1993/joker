@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
