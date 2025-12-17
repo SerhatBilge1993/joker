@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> New atoms frequently lose electrons when they fail to keep an ion them.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
