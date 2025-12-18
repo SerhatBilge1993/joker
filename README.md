@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
