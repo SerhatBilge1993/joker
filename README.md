@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+> People who don't eat gluten are really going against the grain.
 
 <!-- END -->
 
