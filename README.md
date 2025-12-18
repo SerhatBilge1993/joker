@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+> As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
 
 <!-- END -->
 
