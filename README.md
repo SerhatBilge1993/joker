@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you know where you can get chicken broth in bulk? The stock market.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
