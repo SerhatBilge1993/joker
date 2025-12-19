@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
