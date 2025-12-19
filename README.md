@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
