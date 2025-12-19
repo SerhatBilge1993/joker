@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+> Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
 
 <!-- END -->
 
