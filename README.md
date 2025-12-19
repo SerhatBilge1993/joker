@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What don't watermelons get married? Because they cantaloupe.
+> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 <!-- END -->
 
