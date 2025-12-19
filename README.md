@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted.
+> What don't watermelons get married? Because they cantaloupe.
 
 <!-- END -->
 
