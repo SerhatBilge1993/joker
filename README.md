@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
