@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who is the coolest Doctor in the hospital? The hip Doctor!
+> My boss told me to have a good day. So I went home...
 
 <!-- END -->
 
