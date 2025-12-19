@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
