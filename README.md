@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
