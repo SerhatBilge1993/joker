@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
