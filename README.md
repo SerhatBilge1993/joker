@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
