@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many apples grow on a tree? All of them!
+> What do you call an eagle who can play the piano? Talonted!
 
 <!-- END -->
 
