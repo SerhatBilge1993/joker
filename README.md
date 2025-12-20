@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
