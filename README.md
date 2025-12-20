@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
