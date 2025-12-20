@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the broom late for the meeting? He overswept.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
