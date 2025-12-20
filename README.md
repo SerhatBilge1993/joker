@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two guys walked into a bar, the third one ducked.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
