@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
