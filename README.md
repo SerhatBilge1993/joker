@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
