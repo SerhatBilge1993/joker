@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do valley girls hang out in odd numbered groups? Because they can't even.
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
