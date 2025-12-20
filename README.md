@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
