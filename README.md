@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't run through a camp site. You can only ran, because it's past tents.
+> Why did the tomato blush? Because it saw the salad dressing.
 
 <!-- END -->
 
