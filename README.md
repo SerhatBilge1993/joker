@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> What do you call a criminal going down the stairs? Condescending
 
 <!-- END -->
 
