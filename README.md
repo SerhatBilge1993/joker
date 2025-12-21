@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
