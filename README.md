@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
