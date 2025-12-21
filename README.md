@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 
 <!-- END -->
 
