@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the late tomato say to the early tomato? Iâll ketch up
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
