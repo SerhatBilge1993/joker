@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
