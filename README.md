@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
