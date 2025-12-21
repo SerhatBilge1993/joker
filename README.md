@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
 
 <!-- END -->
 
