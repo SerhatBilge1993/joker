@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the Mexican train killer? He had loco motives
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
