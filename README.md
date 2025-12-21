@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is there always a gate around cemeteries? Because people are always dying to get in.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
