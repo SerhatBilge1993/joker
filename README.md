@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This is my step ladder. I never knew my real ladder.
+> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 <!-- END -->
 
