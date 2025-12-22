@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you take someone whoâs been injured in a peek-a-boo accident? To the I.C.U.
+> Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
 
 <!-- END -->
 
