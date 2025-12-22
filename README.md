@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
