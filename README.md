@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
