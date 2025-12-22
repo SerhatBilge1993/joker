@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 
 <!-- END -->
 
