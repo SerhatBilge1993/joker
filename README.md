@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
