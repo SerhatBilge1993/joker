@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
