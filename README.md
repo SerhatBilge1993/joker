@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
