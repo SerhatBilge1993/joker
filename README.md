@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's a ninja's favorite type of shoes? Sneakers!
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
