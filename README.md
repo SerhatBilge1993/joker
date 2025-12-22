@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A bartender broke up with her boyfriend, but he kept asking her for another shot.
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
