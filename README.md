@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
