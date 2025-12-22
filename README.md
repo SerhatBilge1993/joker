@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
