@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
