@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> My boss told me to have a good day. So I went home...
 
 <!-- END -->
 
