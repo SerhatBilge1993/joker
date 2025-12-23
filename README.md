@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Got a new suit recently made entirely of living plants. I wasnât sure at first, but itâs grown on me
+> I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
+
+So, I got a job at a travel agency.  Now, I know I'll be going places.
 
 <!-- END -->
 
