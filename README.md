@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't buy flowers at a monastery. Because only you can prevent florist friars.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
