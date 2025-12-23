@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Skeleton walked into a bar he said I need a beer and a mop
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
