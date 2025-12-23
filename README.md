@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
