@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> Why was the strawberry sad? Its parents were in a jam.
 
 <!-- END -->
 
