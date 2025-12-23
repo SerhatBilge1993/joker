@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the tallest building in the world? The library â itâs got the most stories!
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
