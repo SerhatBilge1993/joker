@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
