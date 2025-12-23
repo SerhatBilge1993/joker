@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why should you never trust a pig with a secret? Because it's bound to squeal.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
