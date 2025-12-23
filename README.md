@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+> Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 <!-- END -->
 
