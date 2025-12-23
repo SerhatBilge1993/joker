@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
