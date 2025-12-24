@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
