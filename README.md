@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 <!-- END -->
 
