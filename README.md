@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> What do you call a pig that knows karate? A pork chop!
 
 <!-- END -->
 
