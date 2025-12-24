@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
