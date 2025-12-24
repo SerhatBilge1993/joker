@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a sheep with no legs? A cloud.
+> What do you call a boomerang that won't come back? A stick.
 
 <!-- END -->
 
