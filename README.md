@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> How does a French skeleton say hello? Bone-jour.
 
 <!-- END -->
 
