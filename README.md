@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
