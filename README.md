@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A bartender broke up with her boyfriend, but he kept asking her for another shot.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
