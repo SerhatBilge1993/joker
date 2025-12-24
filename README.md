@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> A Sandwich walks into a bar, the bartender says âSorry, we donât serve food hereâ
 
 <!-- END -->
 
