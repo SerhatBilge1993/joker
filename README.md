@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
