@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig that knows karate? A pork chop!
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
