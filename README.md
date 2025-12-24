@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
