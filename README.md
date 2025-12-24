@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many apples grow on a tree? All of them!
+> I was going to get a brain transplant, but I changed my mind
 
 <!-- END -->
 
