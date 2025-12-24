@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've just written a song about a tortilla. Well, it is more of a rap really.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
