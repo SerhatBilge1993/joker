@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
