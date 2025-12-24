@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
