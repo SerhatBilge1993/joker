@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> Why donât skeletons ever go trick or treating? Because they have nobody to go with.
 
 <!-- END -->
 
