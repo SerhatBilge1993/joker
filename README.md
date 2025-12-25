@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+> Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
 
 <!-- END -->
 
