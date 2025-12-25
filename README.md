@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it so windy inside an arena? All those fans.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
