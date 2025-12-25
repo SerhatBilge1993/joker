@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
