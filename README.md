@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+> The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
 
 <!-- END -->
 
