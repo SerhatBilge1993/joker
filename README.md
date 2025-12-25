@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the house go to the doctor? It was having window panes.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
