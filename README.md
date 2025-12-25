@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> What do you call a monkey in a mine field? A babooooom!
+
 
 <!-- END -->
 
