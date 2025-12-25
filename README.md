@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
