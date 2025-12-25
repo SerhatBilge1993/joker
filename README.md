@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boy who stopped digging holes? Douglas.
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
