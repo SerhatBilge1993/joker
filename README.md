@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
