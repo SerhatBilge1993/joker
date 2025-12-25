@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
