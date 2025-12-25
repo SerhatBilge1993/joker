@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
