@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's difficult to say what my wife does, she sells sea shells by the sea shore.
+> Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 <!-- END -->
 
