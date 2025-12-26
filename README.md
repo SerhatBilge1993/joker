@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
