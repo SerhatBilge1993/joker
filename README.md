@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's a ninja's favorite type of shoes? Sneakers!
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
