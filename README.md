@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst thing about ancient history class? The teachers tend to Babylon.
+> What type of music do balloons hate? Pop music!
 
 <!-- END -->
 
