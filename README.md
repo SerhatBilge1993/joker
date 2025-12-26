@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+> Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
 
 <!-- END -->
 
