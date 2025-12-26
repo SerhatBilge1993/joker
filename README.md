@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
