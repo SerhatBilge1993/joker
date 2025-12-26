@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
