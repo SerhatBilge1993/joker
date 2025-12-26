@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 <!-- END -->
 
