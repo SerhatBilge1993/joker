@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two silk worms had a race. They ended up in a tie.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
