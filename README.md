@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
