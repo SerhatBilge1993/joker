@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
