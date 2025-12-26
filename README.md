@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
