@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
