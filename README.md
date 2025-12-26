@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
