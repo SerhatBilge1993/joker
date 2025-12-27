@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
