@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
