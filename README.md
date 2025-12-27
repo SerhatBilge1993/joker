@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The first time I got a universal remote control I thought to myself, "This changes everything"
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
