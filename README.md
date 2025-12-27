@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> What is the hardest part about sky diving? The ground.
 
 <!-- END -->
 
