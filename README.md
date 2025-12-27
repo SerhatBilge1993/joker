@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
