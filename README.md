@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone broke into my house last night and stole my limbo trophy. How low can you go?
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
