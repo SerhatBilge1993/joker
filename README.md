@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
