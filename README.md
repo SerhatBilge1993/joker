@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
