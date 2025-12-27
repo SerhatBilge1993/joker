@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
