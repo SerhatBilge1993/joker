@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
