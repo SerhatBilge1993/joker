@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
