@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
