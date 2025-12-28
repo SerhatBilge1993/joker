@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
