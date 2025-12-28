@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 <!-- END -->
 
