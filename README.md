@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Dracula lie in the wrong coffin? He made a grave mistake.
+> "Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 <!-- END -->
 
