@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 <!-- END -->
 
