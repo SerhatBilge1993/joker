@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
