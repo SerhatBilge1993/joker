@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
