@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> What do you call a pig with three eyes? Piiig
 
 <!-- END -->
 
