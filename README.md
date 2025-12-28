@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> What do you call a cow on a trampoline? A milk shake!
 
 <!-- END -->
 
