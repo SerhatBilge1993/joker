@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
 
 <!-- END -->
 
