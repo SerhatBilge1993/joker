@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man run around his bed? Because he was trying to catch up on his sleep!
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
