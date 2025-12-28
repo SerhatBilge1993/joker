@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boomerang that won't come back? A stick.
+> What was a more important invention than the first telephone? The second one.
 
 <!-- END -->
 
