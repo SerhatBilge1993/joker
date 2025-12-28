@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's a ninja's favorite type of shoes? Sneakers!
+> Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 <!-- END -->
 
