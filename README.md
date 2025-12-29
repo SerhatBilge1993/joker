@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
