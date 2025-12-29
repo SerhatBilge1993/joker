@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just got fired from a florist, apparently I took too many leaves.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
