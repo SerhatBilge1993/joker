@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+> Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.
 
 <!-- END -->
 
