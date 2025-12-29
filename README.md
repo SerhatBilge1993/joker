@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+> Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 <!-- END -->
 
