@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get a baby alien to sleep?  You rocket.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
