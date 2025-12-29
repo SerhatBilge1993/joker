@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
