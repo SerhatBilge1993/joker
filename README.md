@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 <!-- END -->
 
