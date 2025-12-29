@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Dracula lie in the wrong coffin? He made a grave mistake.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
