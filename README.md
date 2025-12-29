@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the two thieves who stole a calendar? They each got six months.
+> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
 
 <!-- END -->
 
