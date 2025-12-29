@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> What is a vampire's favorite fruit? A blood orange.
 
 <!-- END -->
 
