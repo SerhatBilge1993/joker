@@ -4,9 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst part about being a cross-eyed teacher?
+> What is the difference between ignorance and apathy?
 
-They can't control their pupils.
+I don't know and I don't care.
 
 <!-- END -->
 
