@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+> Today a girl said she recognized me from vegetarian club, but Iâm sure Iâve never met herbivore.
 
 <!-- END -->
 
