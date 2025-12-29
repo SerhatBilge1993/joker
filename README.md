@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
