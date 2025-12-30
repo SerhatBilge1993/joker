@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
