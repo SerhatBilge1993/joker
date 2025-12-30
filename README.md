@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Recent survey revealed 6 out of 7 dwarf's aren't happy.
+> I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
 
 <!-- END -->
 
