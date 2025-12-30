@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+> Where do fish keep their money? In the riverbank
 
 <!-- END -->
 
