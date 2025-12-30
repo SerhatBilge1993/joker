@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
