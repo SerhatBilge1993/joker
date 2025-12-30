@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
