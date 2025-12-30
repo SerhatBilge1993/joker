@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> Toasters were the first form of pop-up notifications.
 
 <!-- END -->
 
