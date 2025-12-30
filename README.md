@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
