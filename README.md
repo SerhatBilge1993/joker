@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
+> I ordered a chicken and an egg from Amazon. I'll let you know.
 
 <!-- END -->
 
