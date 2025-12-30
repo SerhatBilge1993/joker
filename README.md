@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
