@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a bee and a sheep? A bah-humbug.
-
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
