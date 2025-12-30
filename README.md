@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
