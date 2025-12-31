@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about corduroy pillows?  They're making headlines!
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
