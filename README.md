@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Just read a few facts about frogs. They were ribbiting.
 
 <!-- END -->
 
