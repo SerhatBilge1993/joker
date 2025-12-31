@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My cat was just sick on the carpet, I donât think itâs feline well.
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
