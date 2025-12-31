@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
