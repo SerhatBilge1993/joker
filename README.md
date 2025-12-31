@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
