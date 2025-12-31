@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are shocked to discover I have a police record but I love their greatest hits!
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
