@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
