@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didn't the number 4 get into the nightclub? Because he is 2 square.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
