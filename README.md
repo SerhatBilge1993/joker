@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 
 <!-- END -->
 
