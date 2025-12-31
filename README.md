@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> What do you call a boomerang that won't come back? A stick.
 
 <!-- END -->
 
