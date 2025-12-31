@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> Where do you take someone whoâs been injured in a peek-a-boo accident? To the I.C.U.
 
 <!-- END -->
 
