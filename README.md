@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
