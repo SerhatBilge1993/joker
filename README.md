@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 <!-- END -->
 
