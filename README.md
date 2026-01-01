@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
