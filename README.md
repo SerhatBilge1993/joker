@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 <!-- END -->
 
