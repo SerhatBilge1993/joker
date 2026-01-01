@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
