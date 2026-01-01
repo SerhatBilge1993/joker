@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
