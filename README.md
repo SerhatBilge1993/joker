@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one plate say to the other plate? Dinner is on me!
+> What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 <!-- END -->
 
