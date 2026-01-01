@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
