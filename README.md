@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
