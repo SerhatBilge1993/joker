@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> Why are fish easy to weigh? Because they have their own scales.
 
 <!-- END -->
 
