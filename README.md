@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> Why did the clown have neck pain? - Because he slept funny
 
 <!-- END -->
 
