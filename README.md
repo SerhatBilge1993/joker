@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm reading a book on the history of glue â canât put it down.
+> The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
 
 <!-- END -->
 
