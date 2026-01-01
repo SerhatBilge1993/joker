@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many seconds are in a year?
-12.
-January 2nd, February 2nd, March 2nd, April 2nd.... etc
+> So, I heard this pun about cows, but itâs kinda offensive so I wonât say it. I donât want there to be any beef between us. 
 
 <!-- END -->
 
