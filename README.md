@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
