@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
