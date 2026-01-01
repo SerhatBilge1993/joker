@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> What do you call an eagle who can play the piano? Talonted!
 
 <!-- END -->
 
