@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
