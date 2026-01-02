@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> Why did the clown have neck pain? - Because he slept funny
 
 <!-- END -->
 
