@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever heard of a music group called Cellophane? They mostly wrap.
+> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
 
 <!-- END -->
 
