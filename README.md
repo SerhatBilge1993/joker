@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the clown have neck pain? - Because he slept funny
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
