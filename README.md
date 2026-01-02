@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two barracuda fish?  A Pairacuda!
+> Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 <!-- END -->
 
