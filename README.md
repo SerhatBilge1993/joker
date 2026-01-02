@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one plate say to the other plate? Dinner is on me!
+> Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 <!-- END -->
 
