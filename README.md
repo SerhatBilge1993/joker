@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
