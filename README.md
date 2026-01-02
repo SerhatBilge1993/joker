@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
