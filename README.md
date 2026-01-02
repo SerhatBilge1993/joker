@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a rabbit with a water hose? Hare spray.
+> Where does Napoleon keep his armies? In his sleevies.
 
 <!-- END -->
 
