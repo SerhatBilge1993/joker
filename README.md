@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the shore? Nothing, it just waved.
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
