@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What don't watermelons get married? Because they cantaloupe.
+> Why did the melons plan a big wedding? Because they cantaloupe!
 
 <!-- END -->
 
