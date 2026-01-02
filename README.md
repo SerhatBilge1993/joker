@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
