@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the half blind man fall in the well? Because he couldn't see that well!
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
