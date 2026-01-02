@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 
 <!-- END -->
 
