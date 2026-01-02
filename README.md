@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one wall say to the other wall? I'll meet you at the corner!
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
