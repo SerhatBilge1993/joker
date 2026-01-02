@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> What did the ocean say to the shore? Nothing, it just waved.
 
 <!-- END -->
 
