@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
