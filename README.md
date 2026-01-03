@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the broom late for the meeting? He overswept.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
