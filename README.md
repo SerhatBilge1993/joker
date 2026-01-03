@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
