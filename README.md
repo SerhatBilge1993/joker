@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
