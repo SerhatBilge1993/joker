@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
