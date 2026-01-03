@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
