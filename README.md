@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
