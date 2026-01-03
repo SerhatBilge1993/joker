@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
