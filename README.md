@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
