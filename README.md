@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
