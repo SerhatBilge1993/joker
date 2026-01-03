@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
