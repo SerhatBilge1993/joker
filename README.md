@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
