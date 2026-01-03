@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
