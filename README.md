@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the leading cause of dry skin? Towels
+> What biscuit does a short person like? Shortbread. 
 
 <!-- END -->
 
