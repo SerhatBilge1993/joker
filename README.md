@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
 <!-- END -->
 
