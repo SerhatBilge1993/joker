@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
