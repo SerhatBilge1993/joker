@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+> My dentist is the best, he even has a little plaque!
 
 <!-- END -->
 
