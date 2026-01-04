@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are snake races so exciting? They're always neck and neck.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
