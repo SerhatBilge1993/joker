@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get a baby alien to sleep?  You rocket.
+> What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
 <!-- END -->
 
