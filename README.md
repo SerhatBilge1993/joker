@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
