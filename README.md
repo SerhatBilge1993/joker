@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> What do you call a snake who builds houses? A boa constructor!
 
 <!-- END -->
 
