@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
