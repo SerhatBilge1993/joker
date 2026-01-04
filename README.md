@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> Have you heard about corduroy pillows?  They're making headlines!
 
 <!-- END -->
 
