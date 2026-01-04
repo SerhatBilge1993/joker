@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens when you anger a brain surgeon? They will give you a piece of your mind.
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
