@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 <!-- END -->
 
