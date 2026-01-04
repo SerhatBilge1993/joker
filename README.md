@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm only familiar with 25 letters in the English language. I donât know why.
+> The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
 
 <!-- END -->
 
