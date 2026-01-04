@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
