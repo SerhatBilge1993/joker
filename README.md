@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
