@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
