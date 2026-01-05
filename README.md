@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
 <!-- END -->
 
