@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> Did you hear about the runner who was criticized? He just took it in stride
 
 <!-- END -->
 
