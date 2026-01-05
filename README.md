@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
