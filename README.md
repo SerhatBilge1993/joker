@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> I accidentally drank a bottle of invisible ink. Now Iâm in hospital, waiting to be seen.
 
 <!-- END -->
 
