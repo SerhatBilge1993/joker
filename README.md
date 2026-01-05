@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
