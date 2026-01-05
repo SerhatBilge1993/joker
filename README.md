@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
