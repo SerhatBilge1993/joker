@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get hanging from Apple trees? Sore arms.
+> How do you make a hankie dance? Put a little boogie in it.
 
 <!-- END -->
 
