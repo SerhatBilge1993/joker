@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a seal and a sea lion?
-An ion! 
+> I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
 
 <!-- END -->
 
