@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
