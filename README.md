@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the two thieves who stole a calendar? They each got six months.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
