@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the robot angry? Because someone kept pressing his buttons!
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
