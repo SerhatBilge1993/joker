@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the grape do when he got stepped on? He let out a little wine.
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
