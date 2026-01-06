@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
