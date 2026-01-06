@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
