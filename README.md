@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What animal is always at a game of cricket? A bat.
+> Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 <!-- END -->
 
