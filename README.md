@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> Why was the strawberry sad? Its parents were in a jam.
 
 <!-- END -->
 
