@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't tell secrets in corn fields. Too many ears around.
+> I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
 
 <!-- END -->
 
