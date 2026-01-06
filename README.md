@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
