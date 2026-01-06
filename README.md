@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
