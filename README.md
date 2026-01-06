@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst thing about ancient history class? The teachers tend to Babylon.
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
