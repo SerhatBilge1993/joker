@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is bread's favorite number?  Leaven.
+> You can't trust a ladder. It will always let you down
 
 <!-- END -->
 
