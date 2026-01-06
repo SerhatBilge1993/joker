@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> Why did the cookie cry? It was feeling crumby.
 
 <!-- END -->
 
