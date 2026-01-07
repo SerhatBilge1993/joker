@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
