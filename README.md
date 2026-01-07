@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
