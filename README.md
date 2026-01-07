@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
