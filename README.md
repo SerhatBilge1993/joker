@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a chicken with a skunk? A fowl smell!
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
