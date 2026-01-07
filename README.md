@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
