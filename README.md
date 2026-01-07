@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I considered building the patio by myself. But I didn't have the stones.
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
