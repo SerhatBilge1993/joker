@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
