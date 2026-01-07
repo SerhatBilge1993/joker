@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you give a sick lemon? Lemonaid.
+> Why did the clown have neck pain? - Because he slept funny
 
 <!-- END -->
 
