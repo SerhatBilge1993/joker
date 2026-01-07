@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
