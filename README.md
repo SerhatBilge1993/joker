@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't get a reservation at the library. They were completely booked.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
