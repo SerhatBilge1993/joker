@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pile of cats?  A Meowtain.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
