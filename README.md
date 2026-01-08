@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are shocked to discover I have a police record but I love their greatest hits!
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
