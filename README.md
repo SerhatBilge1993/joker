@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust sushi, there's something fishy about it.
+> What do birds give out on Halloween? Tweets.
 
 <!-- END -->
 
