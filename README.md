@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a rabbit with a water hose? Hare spray.
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
