@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
