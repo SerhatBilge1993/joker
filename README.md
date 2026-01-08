@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
