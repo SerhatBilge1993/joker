@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one wall say to the other wall? I'll meet you at the corner!
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
