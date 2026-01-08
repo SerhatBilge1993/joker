@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
