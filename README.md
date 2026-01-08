@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
