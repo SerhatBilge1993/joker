@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> What don't watermelons get married? Because they cantaloupe.
 
 <!-- END -->
 
