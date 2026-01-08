@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst thing about ancient history class? The teachers tend to Babylon.
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
