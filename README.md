@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a careful wolf? Aware wolf.
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
