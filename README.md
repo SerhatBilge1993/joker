@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do scuba divers fall backwards into the water? Because if they fell forwards theyâd still be in the boat.
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
