@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
