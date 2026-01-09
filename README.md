@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> Two peanuts were walking down the street. One was a salted
 
 <!-- END -->
 
