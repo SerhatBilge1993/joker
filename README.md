@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+> A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 <!-- END -->
 
