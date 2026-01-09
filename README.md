@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Got a new suit recently made entirely of living plants. I wasnât sure at first, but itâs grown on me
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
