@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
