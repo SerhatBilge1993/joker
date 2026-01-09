@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> Want to hear my pizza joke? Never mind, it's too cheesy.
 
 <!-- END -->
 
