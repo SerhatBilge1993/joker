@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+> "Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 <!-- END -->
 
