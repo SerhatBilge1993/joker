@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about corduroy pillows?  They're making headlines!
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
