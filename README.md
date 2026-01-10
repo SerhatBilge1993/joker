@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> What do you call a monkey in a mine field? A babooooom!
+
 
 <!-- END -->
 
