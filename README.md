@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> What do you call a monkey in a mine field? A babooooom!
+
 
 <!-- END -->
 
