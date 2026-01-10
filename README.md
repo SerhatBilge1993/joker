@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do crabs never give to charity? Because theyâre shellfish.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
