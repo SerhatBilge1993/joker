@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
