@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> Is the pool safe for diving? It deep ends.
 
 <!-- END -->
 
