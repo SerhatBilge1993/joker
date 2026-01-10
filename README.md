@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was thinking about moving to Moscow but there is no point Russian into things.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
