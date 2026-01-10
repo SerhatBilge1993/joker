@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
 
 <!-- END -->
 
