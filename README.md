@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 <!-- END -->
 
