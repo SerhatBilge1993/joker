@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
