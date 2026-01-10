@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
