@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
