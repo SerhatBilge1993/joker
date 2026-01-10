@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
