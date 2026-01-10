@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
