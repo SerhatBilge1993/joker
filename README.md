@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm reading a book on the history of glue â canât put it down.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
