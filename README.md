@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
