@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Me and my mates are in a band called Duvet. We're a cover band.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
