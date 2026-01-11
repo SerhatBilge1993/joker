@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
