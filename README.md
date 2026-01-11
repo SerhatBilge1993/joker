@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
