@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do we tell actors to âbreak a leg?â Because every play has a cast.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
