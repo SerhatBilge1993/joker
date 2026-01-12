@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+> I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
 
 <!-- END -->
 
