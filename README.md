@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pumpkins sit on peopleâs porches?
-
-They have no hands to knock on the door.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
