@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the octopus beat the shark in a fight? Because it was well armed.
+> What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 <!-- END -->
 
