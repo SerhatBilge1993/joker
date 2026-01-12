@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
