@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My pet mouse 'Elvis' died last night. He was caught in a trap..
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
