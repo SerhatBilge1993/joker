@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> The best time on a clock is 6:30--hands down.
 
 <!-- END -->
 
