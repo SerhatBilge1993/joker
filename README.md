@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
