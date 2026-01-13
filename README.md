@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dad that has fallen through the ice? A Popsicle.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
