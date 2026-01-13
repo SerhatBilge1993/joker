@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
