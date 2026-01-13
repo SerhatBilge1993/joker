@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> I don't trust sushi, there's something fishy about it.
 
 <!-- END -->
 
