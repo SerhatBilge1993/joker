@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> What do you call a boy who stopped digging holes? Douglas.
 
 <!-- END -->
 
