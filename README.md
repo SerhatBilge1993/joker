@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
