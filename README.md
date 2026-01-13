@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
