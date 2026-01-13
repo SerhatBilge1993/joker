@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
