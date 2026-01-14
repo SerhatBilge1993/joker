@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
