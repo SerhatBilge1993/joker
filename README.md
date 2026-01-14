@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+> "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
 
 <!-- END -->
 
