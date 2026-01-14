@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the shy pebble wish for? That she was a little boulder.
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
