@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+> What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 <!-- END -->
 
