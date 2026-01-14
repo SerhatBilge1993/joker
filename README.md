@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> What did the calculator say to the student? You can count on me.
 
 <!-- END -->
 
