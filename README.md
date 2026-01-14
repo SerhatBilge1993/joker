@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
