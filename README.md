@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> What did Michael Jackson name his denim store?    Billy Jeans!
 
 <!-- END -->
 
