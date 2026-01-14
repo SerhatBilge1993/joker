@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
