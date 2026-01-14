@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Ever wondered why bees hum? It's because they don't know the words.
+> Whatâs the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 <!-- END -->
 
