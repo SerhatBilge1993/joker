@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
