@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone broke into my house last night and stole my limbo trophy. How low can you go?
+> My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 
 <!-- END -->
 
