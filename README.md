@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+> I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
 
 <!-- END -->
 
