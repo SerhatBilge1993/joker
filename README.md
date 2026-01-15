@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why should you never trust a pig with a secret? Because it's bound to squeal.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
