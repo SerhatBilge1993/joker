@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
