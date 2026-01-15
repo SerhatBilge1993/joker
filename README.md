@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
