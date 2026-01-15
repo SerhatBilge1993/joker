@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
