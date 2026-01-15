@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
