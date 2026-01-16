@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a monkey in a mine field? A babooooom!
-
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
