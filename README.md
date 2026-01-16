@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
