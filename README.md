@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
