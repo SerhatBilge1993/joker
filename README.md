@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many seconds are in a year?
-12.
-January 2nd, February 2nd, March 2nd, April 2nd.... etc
+> I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 
 <!-- END -->
 
