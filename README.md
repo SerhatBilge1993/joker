@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a bee and a sheep? A bah-humbug.
-
+> Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 <!-- END -->
 
