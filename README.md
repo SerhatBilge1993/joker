@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
