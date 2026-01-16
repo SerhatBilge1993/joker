@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
