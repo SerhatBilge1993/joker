@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> What do you call a monkey in a mine field? A babooooom!
+
 
 <!-- END -->
 
