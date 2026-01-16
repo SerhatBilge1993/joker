@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
