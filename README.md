@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> Which side of the chicken has more feathers? The outside.
 
 <!-- END -->
 
