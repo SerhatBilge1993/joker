@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> People who don't eat gluten are really going against the grain.
 
 <!-- END -->
 
