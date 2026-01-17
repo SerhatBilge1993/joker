@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the scarecrow win an award? Because he was outstanding in his field.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
