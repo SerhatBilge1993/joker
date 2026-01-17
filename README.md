@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
