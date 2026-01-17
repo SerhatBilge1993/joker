@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a water bed more bouncy. You use Spring Water
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
