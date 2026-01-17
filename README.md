@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
