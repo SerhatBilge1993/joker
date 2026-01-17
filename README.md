@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
