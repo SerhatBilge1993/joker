@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> What does a pirate pay for his corn? A buccaneer!
 
 <!-- END -->
 
