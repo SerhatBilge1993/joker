@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
