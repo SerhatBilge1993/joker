@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
