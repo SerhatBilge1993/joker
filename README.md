@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do computers and air conditioners have in common? They both become useless when you open windows.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
