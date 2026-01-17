@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pumpkins sit on peopleâs porches?
-
-They have no hands to knock on the door.
+> Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 
 <!-- END -->
 
