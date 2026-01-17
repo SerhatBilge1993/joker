@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+> The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
 
 <!-- END -->
 
