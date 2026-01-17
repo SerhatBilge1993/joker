@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
