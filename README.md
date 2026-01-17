@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
