@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the piece of bread say to the knife? Butter me up.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
