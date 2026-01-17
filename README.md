@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> What do you call a sheep with no legs? A cloud.
 
 <!-- END -->
 
