@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Today a girl said she recognized me from vegetarian club, but Iâm sure Iâve never met herbivore.
+> When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 <!-- END -->
 
