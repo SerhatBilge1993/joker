@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
