@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This is my step ladder. I never knew my real ladder.
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
