@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got an A on my origami assignment when I turned my paper into my teacher
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
