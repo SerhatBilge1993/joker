@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
