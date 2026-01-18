@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the joke about the wandering nun? She was a roman catholic.
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
