@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+> Why does Han Solo like gum? It's chewy!
 
 <!-- END -->
 
