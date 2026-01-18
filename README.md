@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens to a frog's car when it breaks down? It gets toad.
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
