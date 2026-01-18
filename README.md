@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
