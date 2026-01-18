@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the robot angry? Because someone kept pressing his buttons!
+> Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 <!-- END -->
 
