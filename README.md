@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was shocked when I was diagnosed as colorblind... It came out of the purple.
+> Did you hear the news? FedEx and UPS are merging. Theyâre going to go by the name Fed-Up from now on.
 
 <!-- END -->
 
