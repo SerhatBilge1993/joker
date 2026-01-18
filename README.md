@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
