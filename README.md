@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Conjunctivitis.com â now thatâs a site for sore eyes.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
