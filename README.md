@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
