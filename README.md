@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
