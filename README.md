@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
