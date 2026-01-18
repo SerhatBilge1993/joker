@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
 <!-- END -->
 
