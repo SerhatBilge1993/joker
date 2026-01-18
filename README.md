@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> I gave all my dead batteries away today, free of charge.
 
 <!-- END -->
 
