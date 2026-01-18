@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the beaver say to the tree? It's been nice gnawing you.
+> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
 
 <!-- END -->
 
