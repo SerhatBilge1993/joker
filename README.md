@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
