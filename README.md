@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> Why are fish easy to weigh? Because they have their own scales.
 
 <!-- END -->
 
