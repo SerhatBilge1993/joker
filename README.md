@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
