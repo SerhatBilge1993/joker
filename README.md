@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> What did Yoda say when he saw himself in 4K? "HDMI"
 
 <!-- END -->
 
