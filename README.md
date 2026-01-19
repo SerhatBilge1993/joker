@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Hey, dad, did you get a haircut?" "No, I got them all cut."
+> What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 <!-- END -->
 
