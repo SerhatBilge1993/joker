@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
