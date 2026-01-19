@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
