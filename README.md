@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
