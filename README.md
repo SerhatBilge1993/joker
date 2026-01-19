@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
