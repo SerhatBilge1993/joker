@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
