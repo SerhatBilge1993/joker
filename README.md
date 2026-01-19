@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pile of cats?  A Meowtain.
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
