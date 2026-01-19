@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
