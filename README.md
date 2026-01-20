@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 <!-- END -->
 
