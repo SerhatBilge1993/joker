@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got a reversible jacket for Christmas, I can't wait to see how it turns out.
+> Did you hear the news? FedEx and UPS are merging. Theyâre going to go by the name Fed-Up from now on.
 
 <!-- END -->
 
