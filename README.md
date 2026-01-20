@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
