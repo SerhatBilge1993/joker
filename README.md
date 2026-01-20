@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig that knows karate? A pork chop!
+> I used to think I was indecisive, but now I'm not sure.
 
 <!-- END -->
 
