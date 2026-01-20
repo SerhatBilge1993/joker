@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am so good at sleeping I can do it with my eyes closed!
+> I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 <!-- END -->
 
