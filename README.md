@@ -4,7 +4,13 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+> Wife: Honey Iâm pregnant.
+
+Me: Wellâ¦. what do we do now?
+
+Wife: Well, I guess we should go to a baby doctor.
+
+Me: Hm.. I think Iâd be a lot more comfortable going to an adult doctor.
 
 <!-- END -->
 
