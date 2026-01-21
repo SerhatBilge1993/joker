@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
