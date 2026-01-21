@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of disorganized cats? A cat-tastrophe.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
