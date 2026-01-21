@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.
+> Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 <!-- END -->
 
