@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
