@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 <!-- END -->
 
