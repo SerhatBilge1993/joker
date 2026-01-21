@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
