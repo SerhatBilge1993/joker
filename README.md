@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> What do you call a snake who builds houses? A boa constructor!
 
 <!-- END -->
 
