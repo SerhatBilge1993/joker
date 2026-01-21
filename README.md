@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every night at 11:11, I make a wish that someone will come fix my broken clock.
+> How do you make a hankie dance? Put a little boogie in it.
 
 <!-- END -->
 
