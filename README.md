@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come a man driving a train got struck by lightning? He was a good conductor.
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
