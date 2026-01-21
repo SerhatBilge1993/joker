@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
