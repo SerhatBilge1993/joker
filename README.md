@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
