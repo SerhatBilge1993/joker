@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the guy with the broken hearing aid? Neither did he.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
