@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
