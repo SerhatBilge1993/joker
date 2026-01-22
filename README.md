@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me to name two structures that hold water. I said "Well dam"
+> Today a girl said she recognized me from vegetarian club, but Iâm sure Iâve never met herbivore.
 
 <!-- END -->
 
