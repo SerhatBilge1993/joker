@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do on a remote island? Try and find the TV island it belongs to.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
