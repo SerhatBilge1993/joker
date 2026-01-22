@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
