@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
