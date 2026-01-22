@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> What's red and bad for your teeth? A Brick.
 
 <!-- END -->
 
