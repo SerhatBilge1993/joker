@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
+> To be Frank, I'd have to change my name.
 
 <!-- END -->
 
