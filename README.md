@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My first time using an elevator was an uplifting experience. The second time let me down.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
