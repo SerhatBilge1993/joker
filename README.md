@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
