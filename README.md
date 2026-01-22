@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
