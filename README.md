@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the guy with the broken hearing aid? Neither did he.
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
