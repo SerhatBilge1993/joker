@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
