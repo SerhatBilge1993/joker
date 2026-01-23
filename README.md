@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
