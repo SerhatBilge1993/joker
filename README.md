@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
