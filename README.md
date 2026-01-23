@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
