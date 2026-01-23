@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad, can you put my shoes on? I don't think they'll fit me.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
