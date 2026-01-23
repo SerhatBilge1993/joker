@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
