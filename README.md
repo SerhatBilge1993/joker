@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
