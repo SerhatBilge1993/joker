@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are shocked to discover I have a police record but I love their greatest hits!
+> *Reversing the car* "Ah, this takes me back"
 
 <!-- END -->
 
