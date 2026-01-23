@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
