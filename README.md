@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> What do you call a snake who builds houses? A boa constructor!
 
 <!-- END -->
 
