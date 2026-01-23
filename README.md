@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just got fired from a florist, apparently I took too many leaves.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
