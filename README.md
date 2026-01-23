@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
