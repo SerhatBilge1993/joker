@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
