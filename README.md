@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
