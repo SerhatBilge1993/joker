@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 
 <!-- END -->
 
