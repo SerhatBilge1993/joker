@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> Sometimes I tuck my knees into my chest and lean forward.  Thatâs just how I roll.
 
 <!-- END -->
 
