@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the feline fail the lie detector test? Because he be lion.
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
