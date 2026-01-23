@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a water bed more bouncy. You use Spring Water
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
