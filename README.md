@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
