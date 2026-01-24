@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
