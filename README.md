@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
+> My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 
 <!-- END -->
 
