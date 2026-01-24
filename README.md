@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
 
 <!-- END -->
 
