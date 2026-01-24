@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
