@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dictionary on drugs? High definition.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
