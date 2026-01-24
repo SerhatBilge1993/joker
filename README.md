@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
