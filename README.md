@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boomerang that won't come back? A stick.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
