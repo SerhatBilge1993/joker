@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
