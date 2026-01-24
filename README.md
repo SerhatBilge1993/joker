@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the clown have neck pain? - Because he slept funny
+> What is a vampire's favorite fruit? A blood orange.
 
 <!-- END -->
 
