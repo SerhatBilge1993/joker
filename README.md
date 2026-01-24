@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> Mountains aren't just funny, they are hill areas
 
 <!-- END -->
 
