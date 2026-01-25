@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
