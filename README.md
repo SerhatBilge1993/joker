@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+> If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 <!-- END -->
 
