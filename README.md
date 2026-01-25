@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who is the coolest Doctor in the hospital? The hip Doctor!
+> Whatâs the longest word in the dictionary? Smiles. Because thereâs a mile between the two Sâs.
 
 <!-- END -->
 
