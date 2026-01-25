@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
