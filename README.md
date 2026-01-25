@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
