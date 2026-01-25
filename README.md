@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
