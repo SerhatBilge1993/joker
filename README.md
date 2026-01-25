@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
