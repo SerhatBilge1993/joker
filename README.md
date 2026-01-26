@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do wizards clean their teeth three times a day? To prevent bat breath!
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
