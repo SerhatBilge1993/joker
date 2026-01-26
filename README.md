@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+> How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 
 <!-- END -->
 
