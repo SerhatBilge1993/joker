@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
