@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> What is a witch's favorite subject in school? Spelling!
 
 <!-- END -->
 
