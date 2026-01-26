@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
