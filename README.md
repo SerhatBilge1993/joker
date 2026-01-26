@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
