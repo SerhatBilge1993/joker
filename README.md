@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+> If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
 
 <!-- END -->
 
