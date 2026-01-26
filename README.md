@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I considered building the patio by myself. But I didn't have the stones.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
