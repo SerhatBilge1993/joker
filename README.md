@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
