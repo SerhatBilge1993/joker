@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
 <!-- END -->
 
