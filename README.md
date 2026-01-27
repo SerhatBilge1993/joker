@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an alligator in a vest? An in-vest-igator!
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
