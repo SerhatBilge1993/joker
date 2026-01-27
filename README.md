@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the octopus beat the shark in a fight? Because it was well armed.
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
