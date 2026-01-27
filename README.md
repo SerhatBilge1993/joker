@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a pig and a pineapple? A porky pine
+> Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 
 <!-- END -->
 
