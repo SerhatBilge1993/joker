@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a criminal going down the stairs? Condescending
+> Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 
 <!-- END -->
 
