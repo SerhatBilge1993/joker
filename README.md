@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âMy Dog has no nose.â âHow does he smell?â âAwfulâ
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
