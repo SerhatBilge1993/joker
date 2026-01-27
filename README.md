@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fish wearing a bowtie? Sofishticated.
+> How many bones are in the human hand? A handful of them.
 
 <!-- END -->
 
