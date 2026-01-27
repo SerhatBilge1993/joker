@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 <!-- END -->
 
