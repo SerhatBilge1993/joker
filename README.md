@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+> What do you call a boomerang that won't come back? A stick.
 
 <!-- END -->
 
