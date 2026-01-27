@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+> Why did the chicken get a penalty? For fowl play.
 
 <!-- END -->
 
