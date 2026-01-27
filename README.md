@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a broken pizza? With tomato paste.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
