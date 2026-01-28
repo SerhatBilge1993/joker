@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> Why are fish easy to weigh? Because they have their own scales.
 
 <!-- END -->
 
