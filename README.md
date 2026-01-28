@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 <!-- END -->
 
