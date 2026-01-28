@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
