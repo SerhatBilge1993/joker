@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
 
 <!-- END -->
 
