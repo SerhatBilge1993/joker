@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
