@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the half blind man fall in the well? Because he couldn't see that well!
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
