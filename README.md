@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
