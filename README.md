@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get a baby alien to sleep?  You rocket.
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
