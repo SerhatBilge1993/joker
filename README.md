@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
