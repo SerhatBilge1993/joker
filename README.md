@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
