@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
