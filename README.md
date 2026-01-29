@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hostess: Do you have a preference of where you sit?
-Dad: Down.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
