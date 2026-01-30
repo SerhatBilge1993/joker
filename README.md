@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> Past, present, and future walked into a bar.... It was tense.
 
 <!-- END -->
 
