@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
