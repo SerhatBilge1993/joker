@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
