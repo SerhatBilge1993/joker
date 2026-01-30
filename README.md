@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
