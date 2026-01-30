@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
