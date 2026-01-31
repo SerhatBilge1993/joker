@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
