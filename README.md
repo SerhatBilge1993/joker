@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
