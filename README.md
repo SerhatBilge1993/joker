@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
