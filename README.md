@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boomerang that won't come back? A stick.
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
