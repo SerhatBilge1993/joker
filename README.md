@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
