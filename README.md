@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a chimney joke? Got stacks of em! First one's on the house
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
