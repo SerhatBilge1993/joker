@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Milk is also the fastest liquid on earth â its pasteurized before you even see it
+> "Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 <!-- END -->
 
