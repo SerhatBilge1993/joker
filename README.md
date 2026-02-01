@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
+> Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 <!-- END -->
 
