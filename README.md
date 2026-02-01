@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> What do you call a magician who has lost their magic? Ian.
 
 <!-- END -->
 
