@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to the hokey pokey, but I turned myself around.
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
