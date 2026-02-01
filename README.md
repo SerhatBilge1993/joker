@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
