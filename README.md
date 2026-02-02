@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
