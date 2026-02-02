@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
+> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
 
 <!-- END -->
 
