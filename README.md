@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
