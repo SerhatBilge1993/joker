@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
