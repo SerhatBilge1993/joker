@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> What did the fish say when it swam into a wall? Damn!
 
 <!-- END -->
 
