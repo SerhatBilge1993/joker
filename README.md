@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the doctor today and he told me I had type A blood but it was a type O.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
