@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
