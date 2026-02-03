@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
