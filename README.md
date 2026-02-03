@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
