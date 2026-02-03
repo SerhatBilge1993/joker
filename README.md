@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two barracuda fish?  A Pairacuda!
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
