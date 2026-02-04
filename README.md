@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
