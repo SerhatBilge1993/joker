@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
