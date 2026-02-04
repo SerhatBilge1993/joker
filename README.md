@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the Mexican train killer? He had loco motives
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
