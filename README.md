@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust stairs. They're always up to something.
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
