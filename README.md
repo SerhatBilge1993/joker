@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
