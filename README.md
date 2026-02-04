@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> Why do bears have hairy coats? Fur protection.
 
 <!-- END -->
 
