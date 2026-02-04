@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> I was going to get a brain transplant, but I changed my mind
 
 <!-- END -->
 
