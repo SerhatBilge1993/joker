@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
 
 <!-- END -->
 
