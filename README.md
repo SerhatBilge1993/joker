@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
