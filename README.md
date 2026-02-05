@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> Want to hear my pizza joke? Never mind, it's too cheesy.
 
 <!-- END -->
 
