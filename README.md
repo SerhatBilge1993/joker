@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> Where do young cows eat lunch? In the calf-ateria.
 
 <!-- END -->
 
