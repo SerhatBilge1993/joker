@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
