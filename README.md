@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry? It was feeling crumby.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
