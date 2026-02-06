@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
