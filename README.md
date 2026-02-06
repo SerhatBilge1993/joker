@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
