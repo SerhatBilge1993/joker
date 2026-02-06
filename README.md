@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me to name two structures that hold water. I said "Well dam"
+> Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
 
 <!-- END -->
 
