@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call your friend who stands in a hole? Phil.
+> What did Michael Jackson name his denim store?    Billy Jeans!
 
 <!-- END -->
 
