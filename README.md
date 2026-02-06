@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
