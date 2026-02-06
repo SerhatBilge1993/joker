@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
