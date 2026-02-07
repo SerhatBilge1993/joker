@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
