@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My first time using an elevator was an uplifting experience. The second time let me down.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
