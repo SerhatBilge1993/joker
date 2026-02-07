@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
