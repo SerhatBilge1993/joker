@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the person who stole my anti-depressant pills: I hope you're happy now.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
