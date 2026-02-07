@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
