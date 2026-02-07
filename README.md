@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't run through a camp site. You can only ran, because it's past tents.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
