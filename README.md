@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
