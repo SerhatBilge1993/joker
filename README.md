@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
