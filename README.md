@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Red light say to the Green light? Don't look at me I'm changing!
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
