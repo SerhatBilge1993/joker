@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
