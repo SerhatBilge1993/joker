@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
