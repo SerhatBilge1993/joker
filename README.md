@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are pirates called pirates? Because they arrr!
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
