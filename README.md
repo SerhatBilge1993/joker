@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
