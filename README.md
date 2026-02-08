@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a chimney joke? Got stacks of em! First one's on the house
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
