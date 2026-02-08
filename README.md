@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
