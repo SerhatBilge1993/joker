@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
