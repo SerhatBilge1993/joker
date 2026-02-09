@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
