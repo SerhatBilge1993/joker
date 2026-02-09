@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thanks for explaining the word "many" to me. It means a lot.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
