@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
