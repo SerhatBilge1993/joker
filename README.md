@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
