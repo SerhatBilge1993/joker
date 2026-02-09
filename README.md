@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> What do you call a group of killer whales playing instruments? An Orca-stra.
 
 <!-- END -->
 
