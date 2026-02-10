@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dinosaur loves to sleep? A stega-snore-us.
+> What did Michael Jackson name his denim store?    Billy Jeans!
 
 <!-- END -->
 
