@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an alligator in a vest? An in-vest-igator!
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
