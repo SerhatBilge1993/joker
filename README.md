@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
