@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
