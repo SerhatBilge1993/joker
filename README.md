@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> Do I enjoy making courthouse puns? Guilty
 
 <!-- END -->
 
