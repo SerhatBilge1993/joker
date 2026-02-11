@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
