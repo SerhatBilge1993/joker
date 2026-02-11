@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
