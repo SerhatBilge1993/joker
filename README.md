@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> What do you call a troublesome Canadian high schooler? A poutine.
 
 <!-- END -->
 
