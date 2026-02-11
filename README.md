@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> What did Michael Jackson name his denim store?    Billy Jeans!
 
 <!-- END -->
 
