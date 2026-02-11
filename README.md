@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
