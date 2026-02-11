@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wouldn't buy anything with velcro. It's a total rip-off.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
