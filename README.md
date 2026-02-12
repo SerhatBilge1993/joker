@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
