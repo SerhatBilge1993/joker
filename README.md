@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
