@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> So, I heard this pun about cows, but itâs kinda offensive so I wonât say it. I donât want there to be any beef between us. 
+> A woman is on trial for beating her husband to death with his guitar collection. Judge says, âFirst offender?â She says, âNo, first a Gibson! Then a Fender!â
 
 <!-- END -->
 
