@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
