@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
