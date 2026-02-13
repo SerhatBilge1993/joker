@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
