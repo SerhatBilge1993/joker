@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
