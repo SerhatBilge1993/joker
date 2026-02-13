@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
