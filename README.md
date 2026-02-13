@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two barracuda fish?  A Pairacuda!
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
