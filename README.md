@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
