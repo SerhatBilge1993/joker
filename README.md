@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought about going on an all-almond diet. But that's just nuts.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
