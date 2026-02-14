@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> Why did the miner get fired from his job? He took it for granite...
 
 <!-- END -->
 
