@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wanted to be a tailor but I didn't suit the job
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
