@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+> What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
 <!-- END -->
 
