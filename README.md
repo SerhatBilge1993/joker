@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
