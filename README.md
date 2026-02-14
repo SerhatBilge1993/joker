@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> What does a female snake use for support? A co-Bra!
 
 <!-- END -->
 
