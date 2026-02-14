@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
