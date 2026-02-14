@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
