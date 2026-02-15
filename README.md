@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+> Whatâs the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 <!-- END -->
 
