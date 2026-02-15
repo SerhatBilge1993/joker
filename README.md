@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 <!-- END -->
 
