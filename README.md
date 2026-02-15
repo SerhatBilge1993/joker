@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fat psychic? A four-chin teller.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
