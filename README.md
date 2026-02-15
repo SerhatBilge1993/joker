@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the joke about the wandering nun? She was a roman catholic.
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
