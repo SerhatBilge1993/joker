@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+> Where do you take someone whoâs been injured in a peek-a-boo accident? To the I.C.U.
 
 <!-- END -->
 
