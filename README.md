@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the lifeguard save the hippie? He was too far out, man.
+> What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
 <!-- END -->
 
