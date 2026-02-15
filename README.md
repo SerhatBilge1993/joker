@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
