@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is bread's favorite number?  Leaven.
+> Waking up this morning was an eye-opening experience.
 
 <!-- END -->
 
