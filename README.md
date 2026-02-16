@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
