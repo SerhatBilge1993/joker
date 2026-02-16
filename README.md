@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
