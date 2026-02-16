@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard of the band 1023MB? They haven't got a gig yet.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
