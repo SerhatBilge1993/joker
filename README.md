@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> How do locomotives know where they're going? Lots of training
 
 <!-- END -->
 
