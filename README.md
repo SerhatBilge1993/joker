@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
