@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
