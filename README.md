@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
