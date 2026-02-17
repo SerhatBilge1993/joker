@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
