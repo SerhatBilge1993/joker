@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
