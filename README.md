@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to write a chemistry joke, but could never get a reaction.
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
