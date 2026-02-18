@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
