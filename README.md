@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
