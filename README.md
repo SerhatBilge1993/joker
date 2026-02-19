@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
