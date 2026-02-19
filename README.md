@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
