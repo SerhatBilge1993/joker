@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a snowman with a vampire? Frostbite.
+> To the guy who invented zero... thanks for nothing.
 
 <!-- END -->
 
