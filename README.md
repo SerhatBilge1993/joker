@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> What do you get when you cross a snowman with a vampire? Frostbite.
 
 <!-- END -->
 
