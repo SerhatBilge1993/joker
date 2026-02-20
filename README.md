@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid cross the playground? To get to the other slide.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
