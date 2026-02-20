@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
