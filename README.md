@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Camping is intense.
+> How do hens stay fit? They always egg-cercise!
 
 <!-- END -->
 
