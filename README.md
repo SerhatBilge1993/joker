@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> How does a French skeleton say hello? Bone-jour.
 
 <!-- END -->
 
