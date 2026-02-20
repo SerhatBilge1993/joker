@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do computers and air conditioners have in common? They both become useless when you open windows.
+> Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
 
 <!-- END -->
 
