@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> I was in an 80's band called the prevention. We were better than the cure.
 
 <!-- END -->
 
