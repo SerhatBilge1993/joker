@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
