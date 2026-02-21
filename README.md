@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
