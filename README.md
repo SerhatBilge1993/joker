@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the traffic light say to the car as it passed? "Don't look I'm changing!"
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
