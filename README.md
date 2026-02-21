@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
