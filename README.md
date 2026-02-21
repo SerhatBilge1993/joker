@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a broken pizza? With tomato paste.
+> Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 <!-- END -->
 
