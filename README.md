@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 <!-- END -->
 
