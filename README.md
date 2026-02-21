@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the best thing about elevator jokes? They work on so many levels.
+> How are false teeth like stars? They come out at night!
 
 <!-- END -->
 
