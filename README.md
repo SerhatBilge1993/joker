@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
