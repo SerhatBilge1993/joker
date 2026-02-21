@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow on a trampoline? A milk shake!
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
