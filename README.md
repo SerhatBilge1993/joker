@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
