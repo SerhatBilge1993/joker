@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get hanging from Apple trees? Sore arms.
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
