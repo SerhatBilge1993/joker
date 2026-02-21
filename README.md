@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the broom late for the meeting? He overswept.
+> Whatâs brown and sounds like a bell? Dung!
 
 <!-- END -->
 
