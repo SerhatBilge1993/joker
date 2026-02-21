@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
