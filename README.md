@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
