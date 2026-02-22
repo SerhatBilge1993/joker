@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
