@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
