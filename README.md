@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the beaver say to the tree? It's been nice gnawing you.
+> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
 
 <!-- END -->
 
