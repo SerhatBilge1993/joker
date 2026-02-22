@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
