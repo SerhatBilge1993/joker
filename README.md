@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
