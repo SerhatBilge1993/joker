@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 <!-- END -->
 
