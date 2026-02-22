@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
