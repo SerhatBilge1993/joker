@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
