@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât skeletons ever go trick or treating? Because they have nobody to go with.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
