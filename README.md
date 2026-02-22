@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> Have you heard about corduroy pillows?  They're making headlines!
 
 <!-- END -->
 
