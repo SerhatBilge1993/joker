@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
