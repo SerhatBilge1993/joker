@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> I used to think I was indecisive, but now I'm not sure.
 
 <!-- END -->
 
