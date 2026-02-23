@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> Parallel lines have so much in common. Itâs a shame theyâll never meet.
 
 <!-- END -->
 
