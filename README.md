@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
