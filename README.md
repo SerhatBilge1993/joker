@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a pig and a pineapple? A porky pine
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
