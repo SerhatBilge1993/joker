@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I met this girl on a dating site and, I don't know, we just clicked.
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
