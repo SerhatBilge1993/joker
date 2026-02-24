@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 <!-- END -->
 
