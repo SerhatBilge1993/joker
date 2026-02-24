@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
