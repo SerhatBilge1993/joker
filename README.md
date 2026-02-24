@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
