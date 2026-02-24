@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
