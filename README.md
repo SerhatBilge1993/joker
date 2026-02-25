@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
