@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
