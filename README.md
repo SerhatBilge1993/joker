@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
