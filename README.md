@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> Why did the tomato blush? Because it saw the salad dressing.
 
 <!-- END -->
 
