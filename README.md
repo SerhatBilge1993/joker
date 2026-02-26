@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
