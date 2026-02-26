@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> I ordered a chicken and an egg from Amazon. I'll let you know.
 
 <!-- END -->
 
