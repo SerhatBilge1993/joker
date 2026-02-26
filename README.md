@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
