@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone broke into my house last night and stole my limbo trophy. How low can you go?
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
