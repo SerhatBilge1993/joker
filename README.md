@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
 
 <!-- END -->
 
