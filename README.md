@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> What do you call a female snake. misssssssss 
 
 <!-- END -->
 
