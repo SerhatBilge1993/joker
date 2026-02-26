@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
