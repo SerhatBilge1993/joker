@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
