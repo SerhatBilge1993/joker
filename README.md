@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
