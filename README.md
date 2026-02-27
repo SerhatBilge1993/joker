@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know crocodiles could grow up to 15 feet? But most just have 4.
+> A woman is on trial for beating her husband to death with his guitar collection. Judge says, âFirst offender?â She says, âNo, first a Gibson! Then a Fender!â
 
 <!-- END -->
 
