@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
