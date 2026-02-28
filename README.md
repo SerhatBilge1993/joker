@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
