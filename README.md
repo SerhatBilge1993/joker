@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
