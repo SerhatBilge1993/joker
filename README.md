@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> Where do hamburgers go to dance? The meat-ball.
 
 <!-- END -->
 
