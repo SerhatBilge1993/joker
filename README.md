@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
