@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Parallel lines have so much in common. Itâs a shame theyâll never meet.
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
