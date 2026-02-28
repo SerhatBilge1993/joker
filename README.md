@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
