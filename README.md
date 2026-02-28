@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The urge to sing the Lion King song is just a whim away.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
