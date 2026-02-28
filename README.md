@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do birds fly south for the winter? Because it's too far to walk.
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
