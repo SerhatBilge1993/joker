@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
