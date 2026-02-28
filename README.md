@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
