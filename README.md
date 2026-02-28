@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
