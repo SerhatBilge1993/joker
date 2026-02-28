@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
