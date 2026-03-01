@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Milk is also the fastest liquid on earth â its pasteurized before you even see it
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
