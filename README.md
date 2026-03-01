@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
