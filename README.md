@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> A ghost walks into a bar and asks for a glass of vodka but the bar tender says, âsorry we donât serve spiritsâ
 
 <!-- END -->
 
