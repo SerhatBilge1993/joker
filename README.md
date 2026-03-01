@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
