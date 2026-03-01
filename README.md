@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do we tell actors to âbreak a leg?â Because every play has a cast.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
