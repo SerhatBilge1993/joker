@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of bagel can fly? A plain bagel.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
