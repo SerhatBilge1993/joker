@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I met this girl on a dating site and, I don't know, we just clicked.
+> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 <!-- END -->
 
