@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> Past, present, and future walked into a bar.... It was tense.
 
 <!-- END -->
 
