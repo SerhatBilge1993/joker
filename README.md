@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
