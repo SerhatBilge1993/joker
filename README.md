@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
