@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
