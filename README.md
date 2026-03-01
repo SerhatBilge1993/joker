@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
