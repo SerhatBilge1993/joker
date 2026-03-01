@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
