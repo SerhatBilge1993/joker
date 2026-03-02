@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boy who stopped digging holes? Douglas.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
