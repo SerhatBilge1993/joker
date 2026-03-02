@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> When is a door not a door? When it's ajar.
 
 <!-- END -->
 
