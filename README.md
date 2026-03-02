@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
