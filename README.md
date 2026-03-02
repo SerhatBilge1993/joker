@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
