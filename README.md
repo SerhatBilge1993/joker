@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the lifeguard save the hippie? He was too far out, man.
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
