@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
