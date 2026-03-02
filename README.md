@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
