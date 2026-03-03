@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the girl smear peanut butter on the road? To go with the traffic jam.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
