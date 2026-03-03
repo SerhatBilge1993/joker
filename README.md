@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
