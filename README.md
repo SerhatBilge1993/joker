@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
