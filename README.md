@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I considered building the patio by myself. But I didn't have the stones.
+> The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
 
 <!-- END -->
 
