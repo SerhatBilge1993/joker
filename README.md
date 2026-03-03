@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
