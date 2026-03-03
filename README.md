@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+> What is a tornado's favorite game to play? Twister!
 
 <!-- END -->
 
