@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 
 <!-- END -->
 
