@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
