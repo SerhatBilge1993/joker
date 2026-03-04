@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever heard of a music group called Cellophane? They mostly wrap.
+> Toasters were the first form of pop-up notifications.
 
 <!-- END -->
 
