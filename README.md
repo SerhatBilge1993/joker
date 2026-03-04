@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> What is a vampire's favorite fruit? A blood orange.
 
 <!-- END -->
 
