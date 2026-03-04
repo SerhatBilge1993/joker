@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
