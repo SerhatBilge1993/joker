@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
