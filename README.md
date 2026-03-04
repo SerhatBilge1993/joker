@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
