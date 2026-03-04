@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> I fear for the calendar, its days are numbered.
+
 
 <!-- END -->
 
