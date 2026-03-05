@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do valley girls hang out in odd numbered groups? Because they can't even.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
