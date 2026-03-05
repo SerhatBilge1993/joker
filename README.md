@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are basketball players messy eaters? Because they are always dribbling.
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
