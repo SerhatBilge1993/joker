@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it so windy inside an arena? All those fans.
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
