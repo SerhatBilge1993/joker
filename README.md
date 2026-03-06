@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust sushi, there's something fishy about it.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
