@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of magic do cows believe in? MOODOO.
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
