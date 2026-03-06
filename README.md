@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I always wanted to look into why I procrastinate, but I keep putting it off. 
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
