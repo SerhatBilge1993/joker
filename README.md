@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> Where does batman go to the bathroom? The batroom.
 
 <!-- END -->
 
