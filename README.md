@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> I used to think I was indecisive, but now I'm not sure.
 
 <!-- END -->
 
