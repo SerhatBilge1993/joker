@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
