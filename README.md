@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got an A on my origami assignment when I turned my paper into my teacher
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
