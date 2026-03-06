@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the beach? Thanks for all the sediment.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
