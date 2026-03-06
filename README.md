@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
 
 <!-- END -->
 
