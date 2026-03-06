@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
