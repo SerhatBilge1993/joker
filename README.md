@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There's not really any training for garbagemen. They just pick things up as they go.
+> Scientists finally did a study on forks. It's about tine!
 
 <!-- END -->
 
