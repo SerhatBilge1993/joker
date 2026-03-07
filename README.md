@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> I think circles are pointless.
 
 <!-- END -->
 
