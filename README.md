@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do fish live in salt water? Because pepper makes them sneeze!
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
