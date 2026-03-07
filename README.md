@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one plate say to the other plate? Dinner is on me!
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
