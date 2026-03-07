@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
 
 <!-- END -->
 
