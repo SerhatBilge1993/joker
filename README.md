@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a water bed more bouncy. You use Spring Water
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
