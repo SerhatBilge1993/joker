@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
