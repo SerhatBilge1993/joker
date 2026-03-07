@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do on a remote island? Try and find the TV island it belongs to.
+> People who don't eat gluten are really going against the grain.
 
 <!-- END -->
 
