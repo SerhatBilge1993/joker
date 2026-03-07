@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
