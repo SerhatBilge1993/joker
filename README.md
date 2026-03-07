@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
