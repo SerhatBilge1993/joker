@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> which flower is most fierce? Dandelion
 
 <!-- END -->
 
