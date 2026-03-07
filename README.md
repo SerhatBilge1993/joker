@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a careful wolf? Aware wolf.
+> Why are mummys scared of vacation? They're afraid to unwind.
 
 <!-- END -->
 
