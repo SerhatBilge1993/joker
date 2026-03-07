@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
