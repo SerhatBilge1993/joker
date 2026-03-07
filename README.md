@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
