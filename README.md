@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
