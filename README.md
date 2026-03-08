@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me to name two structures that hold water. I said "Well dam"
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
