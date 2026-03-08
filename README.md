@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
