@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
