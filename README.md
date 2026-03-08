@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ate a clock yesterday. It was so time consuming.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
