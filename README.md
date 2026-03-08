@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> Why do ducks make great detectives? They always quack the case.
 
 <!-- END -->
 
