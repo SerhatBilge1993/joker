@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about corduroy pillows?  They're making headlines!
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
