@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
