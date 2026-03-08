@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
