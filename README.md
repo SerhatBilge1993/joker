@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
+> Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 <!-- END -->
 
