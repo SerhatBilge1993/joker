@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
