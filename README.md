@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
