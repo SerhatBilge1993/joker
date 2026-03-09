@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
