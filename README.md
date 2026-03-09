@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> Geology rocks, but Geography is where it's at!
 
 <!-- END -->
 
