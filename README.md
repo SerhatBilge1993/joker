@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the leading cause of dry skin? Towels
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
