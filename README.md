@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> Why did the chicken get a penalty? For fowl play.
 
 <!-- END -->
 
