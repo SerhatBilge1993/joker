@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the half blind man fall in the well? Because he couldn't see that well!
+> I accidentally drank a bottle of invisible ink. Now Iâm in hospital, waiting to be seen.
 
 <!-- END -->
 
