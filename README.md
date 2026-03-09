@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wish I could clean mirrors for a living. It's just something I can see myself doing.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
