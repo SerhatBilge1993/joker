@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
