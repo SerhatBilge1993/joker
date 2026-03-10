@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
