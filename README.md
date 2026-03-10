@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+> People who don't eat gluten are really going against the grain.
 
 <!-- END -->
 
