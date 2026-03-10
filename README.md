@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
+> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 <!-- END -->
 
