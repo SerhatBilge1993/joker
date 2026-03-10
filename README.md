@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
