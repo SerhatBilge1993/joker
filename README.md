@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Animal Fact #25: Most bobcats are not named bob.
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
