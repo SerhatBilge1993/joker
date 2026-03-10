@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
