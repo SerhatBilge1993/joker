@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> I am terrified of elevators. Iâm going to start taking steps to avoid them.
 
 <!-- END -->
 
