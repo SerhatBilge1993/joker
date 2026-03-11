@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come a man driving a train got struck by lightning? He was a good conductor.
+> Just watched a documentary about beaversâ¦ It was the best damn program Iâve ever seen.
 
 <!-- END -->
 
