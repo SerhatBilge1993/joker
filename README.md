@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
