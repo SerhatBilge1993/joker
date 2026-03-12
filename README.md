@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
