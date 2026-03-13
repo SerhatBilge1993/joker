@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 <!-- END -->
 
