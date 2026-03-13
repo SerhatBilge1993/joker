@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+> Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
 
 <!-- END -->
 
