@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> What do you call a monkey in a mine field? A babooooom!
+
 
 <!-- END -->
 
