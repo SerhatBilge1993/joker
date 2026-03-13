@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
