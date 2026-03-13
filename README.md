@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
