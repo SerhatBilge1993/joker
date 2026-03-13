@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day... so I went home.
+> When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 <!-- END -->
 
