@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a monkey in a mine field? A babooooom!
-
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
