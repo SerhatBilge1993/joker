@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Doctor: Do you want to hear the good news or the bad news?
-Patient: Good news please.
-Doctor: we're naming a disease after you.
+> "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
 
 <!-- END -->
 
