@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am so good at sleeping I can do it with my eyes closed!
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
