@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> What do you call a monkey in a mine field? A babooooom!
+
 
 <!-- END -->
 
