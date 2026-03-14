@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
