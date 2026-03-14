@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> Shout out to my grandma, that's the only way she can hear.
 
 <!-- END -->
 
