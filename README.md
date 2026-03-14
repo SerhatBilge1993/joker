@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
