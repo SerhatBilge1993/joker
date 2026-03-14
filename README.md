@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
