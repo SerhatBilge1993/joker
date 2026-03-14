@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
