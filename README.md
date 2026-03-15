@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
