@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
