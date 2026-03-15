@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
