@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> Where does astronauts hangout after work? At the spacebar.
 
 <!-- END -->
 
