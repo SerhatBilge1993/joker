@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid cross the playground? To get to the other slide.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
