@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
