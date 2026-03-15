@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
