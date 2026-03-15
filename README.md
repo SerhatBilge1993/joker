@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Parallel lines have so much in common. Itâs a shame theyâll never meet.
+> What kind of bagel can fly? A plain bagel.
 
 <!-- END -->
 
