@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
