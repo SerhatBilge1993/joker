@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
