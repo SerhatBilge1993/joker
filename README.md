@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't get a reservation at the library. They were completely booked.
+> Where does Napoleon keep his armies? In his sleevies.
 
 <!-- END -->
 
